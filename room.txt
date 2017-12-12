@@ -1,0 +1,16 @@
+2
+
+testroom
+this is a test
+1
+mirror
+1
+tworoom
+
+tworoom
+this is a test
+2
+mirror,toilet
+3
+,,testroom
+

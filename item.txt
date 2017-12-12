@@ -1,0 +1,13 @@
+1
+
+mirror
+mirror
+It's a mirror.
+2
+examine, use
+
+2
+
+item
+toilet
+It's a toilet. It's not set up with water, so probably shouldn't use it.

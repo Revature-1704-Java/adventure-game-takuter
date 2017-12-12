@@ -1,0 +1,6 @@
+org\games\adventure\io\Depackage.class
+org\games\adventure\GameController.class
+org\games\adventure\blueprint\Item.class
+org\games\adventure\io\Parser.class
+org\games\adventure\blueprint\Mirror.class
+org\games\adventure\blueprint\Room.class
